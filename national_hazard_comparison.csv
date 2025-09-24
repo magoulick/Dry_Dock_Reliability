@@ -1,0 +1,9 @@
+Location,Facility_Type,Seismic_M6_Rate,Seismic_M7_Rate,SLR_2050_Projection,Storm_Intensity,Tsunami_Risk,Corrosion_Factor,Freeze_Thaw_Factor
+"Puget Sound Naval Shipyard, WA",Naval Shipyard,0.02,0.005,0.3912,1.68,0.8,1.0,0.3
+"Norfolk Naval Shipyard, VA",Naval Shipyard,0.005,0.001,0.6368,2.0999999999999996,0.1,1.2,0.4
+"Pearl Harbor Naval Shipyard, HI",Naval Shipyard,0.015,0.003,0.5504,2.2399999999999998,0.9,1.3,0.0
+"Portsmouth Naval Shipyard, NH",Naval Shipyard,0.003,0.0005,0.44759999999999994,1.8199999999999998,0.2,1.1,0.8
+"Newport News Shipbuilding, VA",Industrial Shipyard,0.004,0.0008,0.5803999999999999,1.9599999999999997,0.1,1.2,0.4
+"Ingalls Shipbuilding, MS",Industrial Shipyard,0.002,0.0003,0.9051999999999999,2.52,0.05,1.4,0.1
+"Bath Iron Works, ME",Industrial Shipyard,0.0025,0.0004,0.3912,1.75,0.15,1.0,0.9
+"General Dynamics NASSCO, CA",Industrial Shipyard,0.025,0.006,0.48035999999999995,1.54,0.6,1.1,0.1
